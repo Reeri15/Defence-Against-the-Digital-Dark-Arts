@@ -1,4 +1,4 @@
-# Def# 🔐 IT Security Audit Checklist
+# 🔐 IT Security Audit Checklist
 ### Course 5: IT Security – Defense Against the Digital Dark Arts
 
 ## 📚 Project Overview
@@ -29,11 +29,13 @@ The audit helps identify potential security improvements and ensures that the sy
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshot
+
+![alt text](<Windows security home page.png>)
 
 ## Firewall & Network Protection
 
-![Firewall Status](screenshots/firewall-status.png)
+![alt text](<Firewall & Network protection.png>)
 
 The firewall is enabled for:
 - Domain Network
@@ -46,7 +48,7 @@ This ensures protection against unauthorized access and network threats.
 
 ## Virus & Threat Protection
 
-![Virus Protection](screenshots/virus-protection.png)
+![alt text](<Virus & threat protection status.png>)
 
 Results:
 - No current threats detected
@@ -57,9 +59,30 @@ This confirms that the system has **active malware protection**.
 
 ---
 
+## 4️⃣ Windows Updates
+
+![Windows Update Screenshot](screenshots/windows-update.png)
+
+This screenshot displays the **Windows Update settings page** on the system. Windows Update is responsible for downloading and installing important updates from Microsoft.
+
+Regular system updates are critical for maintaining strong security because they include:
+
+- Security patches that fix vulnerabilities
+- Bug fixes that improve system stability
+- Performance improvements
+- Protection against newly discovered cyber threats
+
+The system was checked to ensure that **updates are being monitored and installed when available**.
+
+### Recommendation
+It is recommended to keep **automatic updates enabled** so that the operating system 
+receives the latest security patches and remains protected against emerging threats.
+
+---
+
 ## Disk Encryption (BitLocker)
 
-![BitLocker Status](screenshots/bitlocker-status.png)
+![alt text](<Device Encryption.png>)
 
 Current status:
 - BitLocker is currently **OFF**
@@ -98,9 +121,4 @@ This project demonstrates understanding of:
 Course: **IT Security – Defense Against the Digital Dark Arts**  
 Platform: **Capaciti / Coursera**
 
----
 
-# 📂 How to Add More Screenshots
-
-1. Create a folder in your repo called:
-ence-Against-the-Digital-Dark-Arts
