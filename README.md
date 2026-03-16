@@ -33,6 +33,7 @@ The audit helps identify potential security improvements and ensures that the sy
 
 ![alt text](<Windows security home page.png>)
 
+
 ## Firewall & Network Protection
 
 ![alt text](<Firewall & Network protection.png>)
@@ -63,7 +64,8 @@ This confirms that the system has **active malware protection**.
 
 ![Windows Update Screenshot](screenshots/windows-update.png)
 
-This screenshot displays the **Windows Update settings page** on the system. Windows Update is responsible for downloading and installing important updates from Microsoft.
+This screenshot displays the **Windows Update settings page** on the system. Windows Update is responsible for 
+downloading and installing important updates from Microsoft.
 
 Regular system updates are critical for maintaining strong security because they include:
 
@@ -89,6 +91,15 @@ Current status:
 
 ### Recommendation
 Enable BitLocker encryption to protect sensitive files in case the device is lost or stolen.
+
+| Recommendation                                 | Status        |
+| ---------------------------------------------- | ------------- |
+| Enable BitLocker disk encryption               | ☐ Pending     |
+| Use strong, unique passwords                   | ✅ Implemented |
+| Keep automatic Windows updates enabled         | ✅ Implemented |
+| Perform regular antivirus scans                | ✅ Implemented |
+| Avoid downloading files from untrusted sources | ✅ Implemented |
+
 
 ---
 
@@ -121,4 +132,10 @@ This project demonstrates understanding of:
 Course: **IT Security – Defense Against the Digital Dark Arts**  
 Platform: **Capaciti / Coursera**
 
+---
 
+👩‍💻 Author
+
+Reshay Makunyane
+
+IT Support / System Administration Student
